@@ -1,0 +1,27 @@
+{
+    "remotePath": "./plantillaProyectos",
+    "host": "ftp.dcsr.com.mx",
+    "username": "frontEnd@dcsr.com.mx",
+    "password": "#2021fr0nt3nd@",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".js .css .html .php"
+        ],
+        "path": ""
+    }
+}
