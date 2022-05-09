@@ -15,7 +15,7 @@ function EnviaCorreo($AReceptor,$ACorreo,$AAsunto,$AMensaje,$AAdjunto){
    $mail->SMTPAuth   = true;  
    $mail->SMTPSecure = 'tls'; 
    $mail->Username   = 'soporte.dcsr@dcsr.com.mx';  
-   $mail->Password   = '@20s0p0rt320#'; 
+   $mail->Password   = 'r0+BIizk#C6r';
    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;   
    $mail->Port       = 587; 
    $mail->setFrom('soporte.dcsr@dcsr.com.mx', 'Soporte DCSR');
